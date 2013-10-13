@@ -55,16 +55,7 @@
 		
 		<!--//Added by Andrew Fischer//-->
 		
-		<section class="likebox-new">
-			<div id="fb-root"></div>
-				<script>(function(d, s, id) {
-					 var js, fjs = d.getElementsByTagName(s)[0];
-  					if (d.getElementById(id)) return;
-					js = d.createElement(s); js.id = id;
-  					js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=267482086608673";
-  					fjs.parentNode.insertBefore(js, fjs);
-				}(document, 'script', 'facebook-jssdk'));</script>	
-		</section>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fstuyspectator&amp;width=The+pixel+width+of+the+plugin&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=267482086608673" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:The pixel width of the pluginpx; height:62px;" allowTransparency="true"></iframe>
 
 
 
