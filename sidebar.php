@@ -49,8 +49,25 @@
 	<?php if( is_home() || is_category() ): ?>
  		
 		<section class="sidebar-block sidebar-block-center">
-			<div class="fb-like-box" data-href="http://www.facebook.com/stuyspec" data-width="292" data-height="185" data-show-faces="true" data-border-color="#cccccc" data-stream="false" data-header="false"></div>
+			<div class="fb-like-box" data-href="http://www.facebook.com/stuyspec" data-width="292" data-height="185" data-show-faces="true" data-border-color="#cccccc" data-stream="false" data-header="true"></div>
 		</section>
+		
+		
+		<!--//Added by Andrew Fischer//-->
+		
+		<section class="likebox-new">
+			<div id="fb-root"></div>
+				<script>(function(d, s, id) {
+					 var js, fjs = d.getElementsByTagName(s)[0];
+  					if (d.getElementById(id)) return;
+					js = d.createElement(s); js.id = id;
+  					js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=267482086608673";
+  					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>	
+		</section>
+
+
+
 
 		<section id="sidebar-twitter" class="sidebar-block sidebar-block-center">
 			<a href="https://twitter.com/stuyspec" class="twitter-follow-button" data-show-count="true">Follow @bupipedream</a>
