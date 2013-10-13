@@ -307,7 +307,7 @@
 		</section>
 		<h1 id="logo" class="span12">
 			<a href="<? bloginfo( 'url' ); ?>/" title="<? bloginfo('name'); ?>">
-				<img src="<? bloginfo( 'template_url' ); ?>/img/stuyspec.png" alt="<? bloginfo( 'name' ); ?> - <? bloginfo( 'description' ); ?>" />
+				<img src="<? bloginfo( 'template_url' ); ?>/img/bupipedream.png" alt="<? bloginfo( 'name' ); ?> - <? bloginfo( 'description' ); ?>" />
 			</a>
 		</h1>
 		<section id="search-social" class="span6 last">
