@@ -16,7 +16,7 @@
 		if (document.context) document.write ("&context=" + escape(document.context));
 		if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 		document.write ("'><\/scr"+"ipt>");
-	//]]>--></script><noscript><a href='http://www.bupipedream.com/openx/www/delivery/ck.php?n=a5e11ab5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.bupipedream.com/openx/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5e11ab5' border='0' alt='' /></a></noscript>
+	//]]>--></script><noscript><a href='http://www.stuyspec.com/openx/www/delivery/ck.php?n=a5e11ab5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.stuyspec.com/openx/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5e11ab5' border='0' alt='' /></a></noscript>
 
 	<?php if( is_single() ): ?>
 		<section id="fb-settings" class="sidebar-block">
@@ -49,11 +49,11 @@
 	<?php if( is_home() || is_category() ): ?>
  		
 		<section class="sidebar-block sidebar-block-center">
-			<div class="fb-like-box" data-href="http://www.facebook.com/bupipedream" data-width="292" data-height="185" data-show-faces="true" data-border-color="#cccccc" data-stream="false" data-header="false"></div>
+			<div class="fb-like-box" data-href="http://www.facebook.com/stuyspec" data-width="292" data-height="185" data-show-faces="true" data-border-color="#cccccc" data-stream="false" data-header="false"></div>
 		</section>
 
 		<section id="sidebar-twitter" class="sidebar-block sidebar-block-center">
-			<a href="https://twitter.com/bupipedream" class="twitter-follow-button" data-show-count="true">Follow @bupipedream</a>
+			<a href="https://twitter.com/stuyspec" class="twitter-follow-button" data-show-count="true">Follow @bupipedream</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 		</section>
 		
@@ -145,7 +145,7 @@
 	  */-->
 
 	<script type='text/javascript'><!--//<![CDATA[
-	   var m3_u = (location.protocol=='https:'?'https://www.bupipedream.com/openx/www/delivery/ajs.php':'http://www.bupipedream.com/openx/www/delivery/ajs.php');
+	   var m3_u = (location.protocol=='https:'?'https://www.stuyspec.com/openx/www/delivery/ajs.php':'http://www.stuyspec.com/openx/www/delivery/ajs.php');
 	   var m3_r = Math.floor(Math.random()*99999999999);
 	   if (!document.MAX_used) document.MAX_used = ',';
 	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -158,7 +158,7 @@
 	   if (document.context) document.write ("&context=" + escape(document.context));
 	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 	   document.write ("'><\/scr"+"ipt>");
-	//]]>--></script><noscript><a href='http://www.bupipedream.com/openx/www/delivery/ck.php?n=aae0889b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.bupipedream.com/openx/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aae0889b' border='0' alt='' /></a></noscript>
+	//]]>--></script><noscript><a href='http://www.stuyspec.com/openx/www/delivery/ck.php?n=aae0889b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.stuyspec.com/openx/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aae0889b' border='0' alt='' /></a></noscript>
 
 
 	<!-- Innvocation code for 120x600 ad banner -->
@@ -183,7 +183,7 @@
 	  */-->
 
 	<script type='text/javascript'><!--//<![CDATA[
-	   var m3_u = (location.protocol=='https:'?'https://www.bupipedream.com/openx/www/delivery/ajs.php':'http://www.bupipedream.com/openx/www/delivery/ajs.php');
+	   var m3_u = (location.protocol=='https:'?'https://www.stuyspec.com/openx/www/delivery/ajs.php':'http://www.stuyspec.com/openx/www/delivery/ajs.php');
 	   var m3_r = Math.floor(Math.random()*99999999999);
 	   if (!document.MAX_used) document.MAX_used = ',';
 	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -196,7 +196,7 @@
 	   if (document.context) document.write ("&context=" + escape(document.context));
 	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 	   document.write ("'><\/scr"+"ipt>");
-	//]]>--></script><noscript><a href='http://www.bupipedream.com/openx/www/delivery/ck.php?n=ac82518f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.bupipedream.com/openx/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ac82518f' border='0' alt='' /></a></noscript>
+	//]]>--></script><noscript><a href='http://www.stuyspec.com/openx/www/delivery/ck.php?n=ac82518f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.stuyspec.com/openx/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ac82518f' border='0' alt='' /></a></noscript>
 
 	<!-- Innvocation code for 120x600 ad banner -->
 
