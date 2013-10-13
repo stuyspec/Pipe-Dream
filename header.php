@@ -3,7 +3,7 @@
 
 <?php if( is_single() ): ?>
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-<meta property="article:publisher" content="https://www.facebook.com/bupipedream" />
+<meta property="article:publisher" content="https://www.facebook.com/stuyspectator" />
 <?php elseif( is_author() ): ?>
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 <?php else: ?>
@@ -37,7 +37,7 @@
 
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-29084495-1']);
-	  _gaq.push(['_setDomainName', 'bupipedream.com']);
+	  _gaq.push(['_setDomainName', 'stuyspec.com']);
 	  _gaq.push(['_trackPageview']);
 	
 	  if (document.location.href.search("fb_action_types=news.reads") != -1) {
@@ -64,7 +64,7 @@
 		window.fbAsyncInit = function() {
 			FB.init({
 				appId      : '<?= FB_APP_ID; ?>', // App ID
-				channelUrl : '//www.bupipedream.com/channel.html', // Channel File
+				channelUrl : '//www.stuyspec.com/channel.html', // Channel File
 				status     : true, // check login status
 				cookie     : true, // enable cookies to allow the server to access the session
 				xfbml      : true  // parse XFBML
@@ -274,7 +274,7 @@
 	
 <!--/* OpenX Javascript Tag v2.8.10 */-->
 <script type='text/javascript'><!--//<![CDATA[
-	var m3_u = (location.protocol=='https:'?'https://www.bupipedream.com/openx/www/delivery/ajs.php':'http://www.bupipedream.com/openx/www/delivery/ajs.php');
+	var m3_u = (location.protocol=='https:'?'https://www.stuyspec.com/openx/www/delivery/ajs.php':'http://www.stuyspec.com/openx/www/delivery/ajs.php');
 	var m3_r = Math.floor(Math.random()*99999999999);
 	if (!document.MAX_used) document.MAX_used = ',';
 	document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -287,7 +287,7 @@
 	if (document.context) document.write ("&context=" + escape(document.context));
 	if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 	document.write ("'><\/scr"+"ipt>");
-//]]>--></script><noscript><a href='http://www.bupipedream.com/openx/www/delivery/ck.php?n=a35d6069&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.bupipedream.com/openx/www/delivery/avw.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a35d6069' border='0' alt='' /></a></noscript>
+//]]>--></script><noscript><a href='http://www.stuyspec.com/openx/www/delivery/ck.php?n=a35d6069&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.stuyspec.com/openx/www/delivery/avw.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a35d6069' border='0' alt='' /></a></noscript>
 
 
 <div id="container">
@@ -307,13 +307,13 @@
 		</section>
 		<h1 id="logo" class="span12">
 			<a href="<? bloginfo( 'url' ); ?>/" title="<? bloginfo('name'); ?>">
-				<img src="<? bloginfo( 'template_url' ); ?>/img/bupipedream.png" alt="<? bloginfo( 'name' ); ?> - <? bloginfo( 'description' ); ?>" />
+				<img src="<? bloginfo( 'template_url' ); ?>/img/stuyspec.png" alt="<? bloginfo( 'name' ); ?> - <? bloginfo( 'description' ); ?>" />
 			</a>
 		</h1>
 		<section id="search-social" class="span6 last">
 			<div class="social">
-				<a href="https://www.facebook.com/BUPipeDream" title="Follow Pipe Dream on Facebook"><img src="<? bloginfo( 'template_url' ); ?>/img/social/facebook.png" alt="Facebook Page" /> Facebook</a>
-				<a href="https://twitter.com/bupipedream" title="Follow Pipe Dream on Twitter"><img src="<? bloginfo( 'template_url' ); ?>/img/social/twitter.png" alt="Twitter Account" /> Twitter</a>
+				<a href="https://www.facebook.com/stuyspectator" title="Follow Pipe Dream on Facebook"><img src="<? bloginfo( 'template_url' ); ?>/img/social/facebook.png" alt="Facebook Page" /> Facebook</a>
+				<a href="https://twitter.com/stuyspectator" title="Follow Pipe Dream on Twitter"><img src="<? bloginfo( 'template_url' ); ?>/img/social/twitter.png" alt="Twitter Account" /> Twitter</a>
 			</div>
 			<form id="search" role="search" method="get" action="<? bloginfo( 'wpurl' ); ?>/">
 				<input type="search" name="s" autocomplete="on" placeholder="Search Pipe Dream" value="<? get_search_query(); ?>" />
