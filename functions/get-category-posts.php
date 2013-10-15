@@ -45,7 +45,7 @@ function pd_get_category_posts($category_id) {
 	}
 
 	// whitelisted categories that support the zoninator layout
-	$whitelist = array('news', 'sports', 'opinion', 'release');
+	$whitelist = array('news', 'sports', 'opinion', 'ae');
 	if(!in_array(get_category($category_id)->slug, $whitelist)) {
 		return false;
 	}
@@ -80,13 +80,13 @@ function pd_get_category_posts($category_id) {
 	}
 
 	// if category page is release
-	if( get_category_by_slug( 'release' )->term_id === $category_id ) { // opinion
+	if( get_category_by_slug( 'ae' )->term_id === $category_id ) { // opinion
 		if( !$featured ) {
 			// if featured on homepage is not from category
 			// the use the category's featured image.
-			$featured = objectToArray( z_get_posts_in_zone( 'zone-release-feature' ) );
+			$featured = objectToArray( z_get_posts_in_zone( 'zone-ae-feature' ) );
 		}
-		$secondary = array_merge( $secondary, objectToArray( z_get_posts_in_zone( 'zone-release-list' ) ) );
+		$secondary = array_merge( $secondary, objectToArray( z_get_posts_in_zone( 'zone-ae-list' ) ) );
 		$max_secondary = 2;
 	}
 

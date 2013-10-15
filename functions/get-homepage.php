@@ -27,8 +27,8 @@ function pd_set_sections() {
 	$sections['sports']['feature'] = objectToArray(z_get_posts_in_zone('zone-sports-feature'));
 	$sections['sports']['article-list'] = objectToArray(z_get_posts_in_zone('zone-sports-list'));
 	
-	$sections['release']['feature'] = objectToArray(z_get_posts_in_zone('zone-release-feature'));
-	$sections['release']['article-list'] = objectToArray(z_get_posts_in_zone('zone-release-list'));
+	$sections['ae']['feature'] = objectToArray(z_get_posts_in_zone('zone-ae-feature'));
+	$sections['ae']['article-list'] = objectToArray(z_get_posts_in_zone('zone-ae-list'));
 	
 	$sections['editorial']['feature'] = wp_get_recent_posts(array('numberposts' => 1, 'category' => get_category_by_slug('editorial')->cat_ID));
 	$sections['opinion']['article-list'] = objectToArray(z_get_posts_in_zone('zone-opinion-list'));

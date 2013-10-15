@@ -84,7 +84,7 @@
 
 			<!--/* OpenX Javascript Tag v2.8.10 */-->
 			<script type='text/javascript'><!--//<![CDATA[
-				var m3_u = (location.protocol=='https:'?'https://www.bupipedream.com/openx/www/delivery/ajs.php':'http://www.bupipedream.com/openx/www/delivery/ajs.php');
+				var m3_u = (location.protocol=='https:'?'https://www.stuyspec.com/openx/www/delivery/ajs.php':'http://www.stuyspec.com/openx/www/delivery/ajs.php');
 				var m3_r = Math.floor(Math.random()*99999999999);
 				if (!document.MAX_used) document.MAX_used = ',';
 				document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -97,7 +97,7 @@
 				if (document.context) document.write ("&context=" + escape(document.context));
 				if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 				document.write ("'><\/scr"+"ipt>");
-			//]]>--></script><noscript><a href='http://www.bupipedream.com/openx/www/delivery/ck.php?n=ad4131ca&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.bupipedream.com/openx/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ad4131ca' border='0' alt='' /></a></noscript>
+			//]]>--></script><noscript><a href='http://www.stuyspec.com/openx/www/delivery/ck.php?n=ad4131ca&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.stuyspec.com/openx/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ad4131ca' border='0' alt='' /></a></noscript>
 
 			<div class="row grid-row">
 				<div data-column="left-column" class="span9">

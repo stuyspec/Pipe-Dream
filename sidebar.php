@@ -98,7 +98,9 @@
 			<ol>
 				<?php
 					global $post; // prob not safe?
-					$args = array( 'numberposts' => 5, 'category' => 1 ); // news
+					$args = array( 'numberposts' => 5, 'category' => 2 ); // news
+					//THIS IS SUPER IMPORTANT - CATEGORY FOR NEWS IS NOT 1!!!! GOD IT TOOK ME FOREVER TO FIND THIS.
+					//IT IS 2 JESUS. Uncategorized is 1.
 					$myposts = get_posts( $args );
 					foreach( $myposts as $post ) : setup_postdata( $post );
 				?>
