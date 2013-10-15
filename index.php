@@ -295,16 +295,16 @@
 				</section>
 			</div>
 
-			<div id="row-release" class="row">
+			<div id="row-ae" class="row">
 				<section>
-					<!-- Two column row of release -->
-					<h1 class="section-heading pad-left"><a href="<?= home_url(); ?>/release/">Release</a></h2>
+					<!-- Two column row of ae -->
+					<h1 class="section-heading pad-left"><a href="<?= home_url(); ?>/ae/">Arts & Entertainment</a></h2>
 					
-					<div id="release-feature" data-column="left-column" class="span9">
+					<div id="ae-feature" data-column="left-column" class="span9">
 						
-						<?php foreach( $sections['release']['feature'] as $article ): ?>
+						<?php foreach( $sections['ae']['feature'] as $article ): ?>
 
-							<!-- Featured release article -->
+							<!-- Featured ae article -->
 							<article class="pad-left pad-right text-teaser">
 
 								<h2 class="headline">
@@ -319,9 +319,9 @@
 					</div>
 					
 					<div data-column="middle-column" class="span15 last">
-						<div id="release-list" class="article-list pad-right">
-							<!-- List of release articles -->
-							<?php foreach( $sections['release']['article-list'] as $index => $article ): ?>
+						<div id="ae-list" class="article-list pad-right">
+							<!-- List of ae articles -->
+							<?php foreach( $sections['ae']['article-list'] as $index => $article ): ?>
 								
 								<article class="clearfix <?= ($index !== 0) ? 'faded' : '' ?>">
 
