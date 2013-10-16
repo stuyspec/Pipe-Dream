@@ -326,7 +326,7 @@
 		<ul class="primary">
 			<?php
 				// categories in the navigation must be whitelisted
-				$categories = get_categories( array('include' => '1,3,4,5') );
+				$categories = get_categories( array('include' => '1,2,3,4,5,6,31,32') );  //THESE ARE THE IDs THAT ARE WHITELISTED HOLY SHIT THIS TOOK FOREVER TO FIND THANK GOD!!!!
 			?>
 			
 			<? foreach($categories as $category): ?>
@@ -344,13 +344,13 @@
 			<a href="" title="Show search form"><img src="<? bloginfo( 'template_url' ); ?>/img/search.png" alt="Search" /></a>
 		</section>
 		<ul class="secondary">
-			<li><a href="<? bloginfo('wpurl'); ?>/about/" title="About Pipe Dream">About</a></li>
-			<li><a href="<? bloginfo('wpurl'); ?>/advertise/" title="Advertise in Pipe Dream">Advertise</a></li>
+			<li><a href="<? bloginfo('wpurl'); ?>/about/" title="About The Spectator">About</a></li>
+			<li><a href="<? bloginfo('wpurl'); ?>/advertise/" title="Advertise in The Spectator">Advertise</a></li>
 			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/donate/" title="Donate to Pipe Dream">Donate</a></li> -->
-			<li><a href="<? bloginfo('wpurl'); ?>/join/" title="Join Pipe Dream">Join</a></li>
+			<li><a href="<? bloginfo('wpurl'); ?>/join/" title="Join The Spectator">Join</a></li>
 			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/staff/" title="Pipe Dream Staff">Staff</a></li> -->
-			<li><a href="<? bloginfo('wpurl'); ?>/print/" title="Pipe Dream in print">Print</a></li>
-			<li><a href="<? bloginfo('wpurl'); ?>/contact/" title="Contact Pipe Dream">Contact</a></li>
+			<li><a href="<? bloginfo('wpurl'); ?>/print/" title="The Spectator in print">Print</a></li>
+			<li><a href="<? bloginfo('wpurl'); ?>/contact/" title="Contact The Spectator">Contact</a></li>
 		</ul>
 	</nav>
 	<section id="mobile-search" class="row">
