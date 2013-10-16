@@ -25,11 +25,11 @@
 				<li><a href="<? bloginfo( 'wpurl' ); ?>/news/" title="News Articles">News</a></li>
 				<li><a href="<? bloginfo( 'wpurl' ); ?>/sports/" title="Sports Articles">Sports</a></li>
 				<li><a href="<? bloginfo( 'wpurl' ); ?>/opinion/" title="Opinion Columns">Opinion</a></li>
-				<li><a href="<? bloginfo( 'wpurl' ); ?>/release/" title="Release Articles">Release</a></li>
+				<li><a href="<? bloginfo( 'wpurl' ); ?>/ae/" title="A&E Articles">A & E</a></li>
 				<li class="footer-navigation-light"><a href="<? bloginfo('wpurl'); ?>/about/" title="About Pipe Dream">About</a></li>
 				<li class="footer-navigation-light"><a href="<? bloginfo('wpurl'); ?>/advertise/" title="Advertise in Pipe Dream">Advertise</a></li>
-				<li class="footer-navigation-light"><a href="<? bloginfo('wpurl'); ?>/join/" title="Join Pipe Dream">Join</a></li>
-				<li class="footer-navigation-light"><a href="<? bloginfo('wpurl'); ?>/contact/" title="Contact Pipe Dream">Contact</a></li>
+				<li class="footer-navigation-light"><a href="<? bloginfo('wpurl'); ?>/join/" title="Join The Spectator">Join</a></li>
+				<li class="footer-navigation-light"><a href="<? bloginfo('wpurl'); ?>/contact/" title="Contact The Spectator">Contact</a></li>
 			</ul>
 		</nav>
 	</footer>
