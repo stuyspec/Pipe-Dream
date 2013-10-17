@@ -2,7 +2,7 @@
 <!-- Facebook Open Graph -->
 <meta property="og:site_name" content="<?= bloginfo('name'); ?>" />
 
-<meta property="fb:admins" content="1352160452" />
+<meta property="fb:admins" content="14534766369" />
 
 <?php if( is_single() ): ?>
 	<meta property="og:url" content="<?= get_permalink() ?>" />
@@ -61,8 +61,8 @@
 	<meta property="profile:last_name" content="<? the_author_meta('last_name', $author); ?>">
 	<meta property="profile:username" content="<? the_author_meta('user_nicename', $author); ?>">
 <?php elseif(is_home()): ?>
-	<meta property="og:url" content="http://www.bupipedream.com/" />
-	<meta property="og:description" content="Pipe Dream is Binghamton University's oldest and largest student-run newspaper." />
+	<meta property="og:url" content="http://www.stuyspectator.com/" />
+	<meta property="og:description" content="The Spectator is Stuyvesant High School's oldest and largest student-run newspaper." />
 	<meta property="og:image" content="<? bloginfo('template_url'); ?>/img/og-image.png" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="<?= bloginfo('name'); ?> - <?= bloginfo('description'); ?>" />

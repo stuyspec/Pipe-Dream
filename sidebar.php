@@ -49,20 +49,21 @@
 	<?php if( is_home() || is_category() ): ?>
  		
 		<section class="sidebar-block sidebar-block-center">
-			<div class="fb-like-box" data-href="http://www.facebook.com/stuyspec" data-width="292" data-height="185" data-show-faces="true" data-border-color="#cccccc" data-stream="false" data-header="true"></div>
+			<div class="fb-like-box" data-href="http://www.facebook.com/stuyspectator" data-width="292" data-height="185" data-show-faces="true" data-border-color="#cccccc" data-stream="false" data-header="true"></div>
 		</section>
 		
 		
 		<!--//Added by Andrew Fischer//-->
-		
-		  <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fstuyspectator&amp;width=320&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=267482086608673" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320; height:62px;" allowTransparency="true"></iframe>
+
+		  <font color="white">.</font>   
+		  <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fstuyspectator&amp;width=250&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=267482086608673" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250; height:62px;" allowTransparency="true"></iframe>
 
 		<br /><br />
 
-
+		<!--END of FB Plugin//-->
 
 		<section id="sidebar-twitter" class="sidebar-block sidebar-block-left">
-			<a href="https://twitter.com/stuyspectator" class="twitter-follow-button" data-show-count="true">Follow @bupipedream</a>
+			<a href="https://twitter.com/stuyspectator" class="twitter-follow-button" data-show-count="true">Follow @stuyspectator</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 		</section>
 		
