@@ -20,7 +20,7 @@ $(document).ready(function() {
 	});
 		
 	$.simpleWeather({
-		zipcode: '13902',
+		zipcode: '10282',
 		unit: 'f',
 		success: function(weather) {
 			var iconSrc = $("#weather").data('template-url') + '/img/weather/';
