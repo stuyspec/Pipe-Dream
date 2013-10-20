@@ -312,11 +312,11 @@
 		</h1>
 		<section id="search-social" class="span6 last">
 			<div class="social">
-				<a href="https://www.facebook.com/stuyspectator" title="Follow Pipe Dream on Facebook"><img src="<? bloginfo( 'template_url' ); ?>/img/social/facebook.png" alt="Facebook Page" /> Facebook</a>
-				<a href="https://twitter.com/stuyspectator" title="Follow Pipe Dream on Twitter"><img src="<? bloginfo( 'template_url' ); ?>/img/social/twitter.png" alt="Twitter Account" /> Twitter</a>
+				<a href="https://www.facebook.com/stuyspectator" title="Follow The Spectator on Facebook"><img src="<? bloginfo( 'template_url' ); ?>/img/social/facebook.png" alt="Facebook Page" /> Facebook</a>
+				<a href="https://twitter.com/stuyspectator" title="Follow The Spectator on Twitter"><img src="<? bloginfo( 'template_url' ); ?>/img/social/twitter.png" alt="Twitter Account" /> Twitter</a>
 			</div>
 			<form id="search" role="search" method="get" action="<? bloginfo( 'wpurl' ); ?>/">
-				<input type="search" name="s" autocomplete="on" placeholder="Search Pipe Dream" value="<? get_search_query(); ?>" />
+				<input type="search" name="s" autocomplete="on" placeholder="Search The Spectator" value="<? get_search_query(); ?>" />
 				<input type="submit" value="Search" />
 			</form>
 		</section>
@@ -346,9 +346,9 @@
 		<ul class="secondary">
 			<li><a href="<? bloginfo('wpurl'); ?>/about/" title="About The Spectator">About</a></li>
 			<li><a href="<? bloginfo('wpurl'); ?>/advertise/" title="Advertise in The Spectator">Advertise</a></li>
-			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/donate/" title="Donate to Pipe Dream">Donate</a></li> -->
+			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/donate/" title="Donate to The Spectator">Donate</a></li> -->
 			<li><a href="<? bloginfo('wpurl'); ?>/join/" title="Join The Spectator">Join</a></li>
-			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/staff/" title="Pipe Dream Staff">Staff</a></li> -->
+			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/staff/" title="The Spectator's Staff">Staff</a></li> -->
 			<li><a href="<? bloginfo('wpurl'); ?>/print/" title="The Spectator in print">Print</a></li>
 			<li><a href="<? bloginfo('wpurl'); ?>/contact/" title="Contact The Spectator">Contact</a></li>
 		</ul>
