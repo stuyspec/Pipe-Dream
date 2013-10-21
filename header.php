@@ -345,6 +345,7 @@
 		</section>
 		<ul class="secondary">
 			<li><a href="<? bloginfo('wpurl'); ?>/about/" title="About The Spectator">About</a></li>
+			<li><a href="<? bloginfo('wpurl'); ?>/charter/" title="The Charter of The Spectator">Charter</a></li>
 			<li><a href="<? bloginfo('wpurl'); ?>/advertise/" title="Advertise in The Spectator">Advertise</a></li>
 			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/donate/" title="Donate to The Spectator">Donate</a></li> -->
 			<li><a href="<? bloginfo('wpurl'); ?>/join/" title="Join The Spectator">Join</a></li>

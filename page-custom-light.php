@@ -67,8 +67,8 @@
 </head>
 
 <body>
-	<a href="http://www.bupipedream.com/" title="Binghamton University news, sports and entertainment">
-		&larr; Back to Pipe Dream
+	<a href="/" title="The Stuyvesant Spectator">
+		&larr; Back to The Spectator
 	</a>
 	<div class="container">
 		<h1 class="logo center">
