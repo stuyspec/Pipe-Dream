@@ -16,7 +16,7 @@
 			<figure class="hero-image">
 				<img src="<? bloginfo( 'template_url' ); ?>/img/pages/gim.png">
 			</figure>
-			<p>As an entirely student-run publication, Pipe Dream is unique among college newspapers. Without financial assistance or the help of an advisor, Pipe Dream staff consistently produces quality work that gains national recognition. Ask any staffer and they will tell you: joining Pipe Dream was one of the best decisions of their college career.</p>
+			<p>The Spectator, founded in 1915, is Stuyvesant High School’s bi-weekly, student-run newspaper. It is independent of any other organization, and as “The Pulse of the Student Body,” is a forum for student expression. It is accessible to all parties and is available at no cost. We need your help to make this paper the best it can be. Ask any staffer and they will tell you: joining <i>The Spectator</i> was one of the best decisions of their college career.</p>
 			<!-- <a href="#" class="button">View Openings</a> -->
 		</section>
 		<section class="page-section">

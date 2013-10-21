@@ -21,100 +21,126 @@
 				<section id="masthead">
 					<ul>
 						<li>
-							<span class="board">Editor-in-Chief</span>
+							<span class="board">Editors-in-Chief</span>
 							<ul>
-								<li>Christina Pullano, '14</li>
+								<li>David Cahn, '14</li>
+								<li>Edric Huang, '14</li>
 							</ul>
 						</li>
-						<li>
+						<!--li>
 							<span class="board">Managing Editor</span>
 							<ul>
-								<li>Paige Nazinitsky, '14</li>
+								<li><i>Not Currently Filled</i></li>
 							</ul>
-						</li>
+						</li> </!-->
 						<li>
 							<span class="board">Business</span>
 							<ul>
-								<li>Zachary Hindin, '14, <em>Business Manager</em></li>
+								<li>Andrew Fischer, '15, <em>Business Manager</em></li>
+								<li>Deanna Taylor, '15, <em>Business Manager</em></li>
 							</ul>
 						</li>
 						<li>
 							<span class="board">News</span>
 							<ul>
-								<li>Rachel Bluth, '16, <em>News Editor</em></li>
-								<li>Nicholas Vega, '16, <em>Assistant News Editor</em></li>
-								<li>Davina Bhandari, '15, <em>Assistant News Editor</em></li>
-								<li>Geoffrey Wilson, '14, <em>Assistant News Editor</em></li>
+								<li>Lindsay Bu, '14, <em>News Editor</em></li>
+								<li>Noah Rosenberg, '14, <em>News Editor</em></li>
+								<li>Eugenia Sanch&eacute;z, '14, <em>News Editor</em></li>
+								<li>Coby Goldberg, '15, <em>News Editor In Training</em></li>
+								<li>Andrew Wallace, '15, <em>News Editor In Training</em></li>
 							</ul>
 						</li>
 						<li>
 							<span class="board">Sports</span>
 							<ul>
-								<li>Ari Kramer, '14, <em>Sports Editor</em></li>
-								<li>Erik Bacharach, '14, <em>Assistant Sports Editor</em></li>
-								<li>Ashley Purdy, '15, <em>Assistant Sports Editor</em></li>
+								<li>Timothy Diep, '14, <em>Sports Editor</em></li>
+								<li>Luke Morales, '14, <em>Sports Editor</em></li>
+								<li>Lev Akabas, '15, <em>Sports Editor</em></li>
+								<li>Annique Wong, '15, <em>Sports Editor</em></li>
+
 							</ul>
 						</li>
 						<li>
 							<span class="board">Photo</span>
 							<ul>
-								<li>Kendall Loh, '14, <em>Photo Editor</em></li>
-								<li>Janine Furtado, '14, <em>Assistant Photo Editor</em></li>
+								<li>Min "Danny" Kim, '14, <em>Photo Editor</em></li>
+								<li>Sam Kim, '14, <em>Photo Editor</em></li>
+								<li>Justin Strauss, '15, <em>Photo Editor</em></li>
+								<li>Anne Duncan, '15, <em>Photo Editor In Training</em></li>
+
 							</ul>
 						</li>
 						<li>
 							<span class="board">Opinion</span>
 							<ul>
-								<li>Michael Snow, '14, <em>Opinion Editor</em></li>
+								<li>Banjamin Attal, '14, <em>Opinion Editor</em></li>
+								<li>Risham Dhillon, '14, <em>Opinion Editor</em></li>
+								<li>Sevryn Kozak, '14, <em>Opinion Editor</em></li>
+
 							</ul>
 						</li>
 						<li>
-							<span class="board">Release</span>
+							<span class="board">Humor</span>
 							<ul>
-								<li>Darian Lusk, '14, <em>Release Editor</em></li>
-								<li>Jacob Shamsian, '15, <em>Assistant Release Editor</em><li>
+								<li>Jeremy Karson, '14, <em>Humor Editor</em></li>
+								<li>robert Melamed, '14, <em>Humor Editor</em></li>
 							</ul>
 						</li>
 						<li>
-							<span class="board">Design</span>
+							<span class="board">Arts &amp; Entertainment</span>
 							<ul>
-								<li>Zack Feldman, '15, <em>Design Manager</em></li>
-								<li>Rebecca Forney, '14, <em>Design Assistant</em></li>
-								<li>Cari Snider, '14, <em>Design Assistant</em></li>
+								<li>Jane Argodale, '14, <em>A&amp;E Editor</em></li>
+								<li>Joyce Kolitsko, '14, <em>A&amp;E Editor</em></li>
+								<li>Emre Tetik, '14, <em>A&amp;E Editor</em></li>
+								<li>Emma McIntosh, '15, <em>A&amp;E Editor In Training</em></li>
 							</ul>
 						</li>
 						<li>
-							<span class="board">Copy Desk</span>
+							<span class="board">Layout</span>
 							<ul>
-								<li>Victoria Chow, '14, <em>Copy Desk Chief</em></li>
-								<li>Sammie Ruthenberg, '14, <em>Assistant Copy Desk Chief</em></li>
+								<li>Mark Perlmuter, '14, <em>Layout Editor</em></li>
+								<li>Daye Shin, '15, <em>Layout Editor</em></li>
+								<li>Anne Tan, '14, <em>Layout Editor</em></li>
 							</ul>
 						</li>
 						<li>
-							<span class="board">Fun Page</span>
+							<span class="board">Copy</span>
 							<ul>
-								<li>Kris Casey, '15, <em>Fun Page Editor</em></li>
+								<li>Thomas Bajko, '14, <em>Copy Editor</em></li>
+								<li>Stephanie Yan, '14, <em>Copy Editor</em></li>
 							</ul>
 						</li>
 						<li>
-							<span class="board">Editorial Artist</span>
+							<span class="board">Features</span>
 							<ul>
-								<li>Miriam Geiger, '15, <em>Editorial Artist</em></li>
+								<li>Teresa Chen, '15, <em>Features Editor</em></li>
+								<li>Robert He, '14, <em>Features Editor</em></li>
+								<li>Alvin Wei, '14, <em>Features Editor</em></li>
+								<li>Emma Loh, '15, <em>Features Editor</em></li>
+							</ul>
+						</li>
+						<li>
+							<span class="board">Art</span>
+							<ul>
+								<li>Laura Eng, '14, <em>Editorial Artist</em></li>
+								<li>Michele Lin, 14, <em>Editorial Artist</em></li>
+								<li>Michelle Lin,'14, <em>Editorial Artist</em></li>
 							</ul>
 						</li>
 						<li>
 							<span class="board">Web</span>
 							<ul>
-								<li>Willie Demaniow, '16, <em>Lead Web Developer</em></li>
-								<li>Daniel O'Connor, '14, <em>Server Administrator</em></li>
-								<li>Shavonna Q. Hinton, '15, <em>Social Media Manager</em></li>
-								<li>Keara Hill, '16, <em>Social Media Manager</em></li>
+								<li>Shaan Sheikh, '14, <em>Lead Web Developer</em></li>
+								<li>Eric Stringman, '16, <em>Web Media</em></li>
+								<li>Eugene Lee, '14, <em>Server Administrator</em></li>
+								<li>Youbin Kim, '14, <em>Mentor</em></li>
+								<li>Waqarul Islam, '14, <em>Mentor</em></li>
 							</ul>
 						</li>
 						<li>
-							<span class="board">Technology</span>
+							<span class="board">Faculty</span>
 							<ul>
-								<li>Will Sanders, '16, <em>Newsroom Tech Manager</em></li>
+								<li>Kerry Garfinkel, <em>Faculty Advisor</em></li>
 							</ul>
 						</li>
 					</ul>
