@@ -17,6 +17,11 @@
 				<?if(in_category('opinion') && !in_category('editorial')):?>
 					<span class="opinion-label" title="Views expressed in this column represent the opinion of the columnist.">Opinion</span>
 				<?endif?>
+				
+				<?if(in_category('humor')):?>
+					<span class="humor-label" title="This article is a work of fiction created by the humor department. All quotes are libel and slander.">Humor</span>
+				<?endif?>
+				
 				<h2 class="headline" itemprop="headline"><?php the_title(); ?></h2>
 				
 				<p class="deck"><?= get_post_meta( get_the_ID(), '_pd_article_deck_text', true ); ?></p>
@@ -41,7 +46,7 @@
 						<? if( coauthors( null, null, null, null, false ) === "Staff Reports" ): ?>
 							<span class="author" itemprop="author">Staff Reports</span>
 						<? elseif( coauthors( null, null, null, null, false ) === "The Editorial Board" ): ?>
-							<a href="<? bloginfo( 'wpurl' ); ?>/opinion/editorial/" title="More Pipe Dream editorials">
+							<a href="<? bloginfo( 'wpurl' ); ?>/opinion/editorial/" title="More Spectator editorials">
 								<span class="author" itemprop="author">The Editorial Board</span>
 							</a>
 						<?php elseif( coauthors( null, null, null, null, false ) === "archives" ): ?>
@@ -202,7 +207,7 @@
 			
 			<section class="single-meta single-meta-below social-bar">
 				<div class="social-twitter">				
-					<a href="https://twitter.com/share" class="twitter-share-button" data-via="bupipedream" data-related="bupipedream">Tweet</a>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-via="stuyspectator" data-related="stuyspecator">Tweet</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
 				<div class="fb-like" data-href="<?= get_permalink(); ?>" data-send="true" data-width="600" data-show-faces="true" data-action="recommend"></div>
