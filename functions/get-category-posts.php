@@ -79,8 +79,8 @@ function pd_get_category_posts($category_id) {
 		$max_secondary = 3;
 	}
 
-	// if category page is release
-	if( get_category_by_slug( 'ae' )->term_id === $category_id ) { // opinion
+	// if category page is arts and ent
+	if( get_category_by_slug( 'ae' )->term_id === $category_id ) { // ae
 		if( !$featured ) {
 			// if featured on homepage is not from category
 			// the use the category's featured image.

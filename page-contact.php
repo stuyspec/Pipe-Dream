@@ -18,16 +18,24 @@
 			</div>
 			<div class="span8 last">
 				<dl id="contact-list">
+					<dt>Letters to the Editor:</dt>
+						<dl><a href="mailto:letters@stuyspectator.com">letters@stuyspectator.com</a></dl>
+					<dt>Corrections & General Comments:</dt>
+						<dl><a href="mailto:comments@stuyspectator.com" title="Submit a correction">comments@stuyspectator.com</a></dl>
+					<dt>Archival Comments:</dt>
+						<dl><a href="mailto:specbusiness@gmail.om">specbusiness@gmail.om</a></dl>
 					<dt>Advertising:</dt>
-						<dl><a href="mailto:business@bupipedream.com">business@bupipedream.com</a></dl>
-					<dt>Corrections:</dt>
-						<dl><a href="mailto:editor@bupipedream.com" title="Submit a correction">editor@bupipedream.com</a></dl>
-					<dt>Letter to the editor:</dt>
-						<dl><a href="mailto:editor@bupipedream.com">editor@bupipedream.com</a></dl>
-					<dt>News tips:</dt>
-						<dl><a href="mailto:news@bupipedream.com">news@bupipedream.com</a></dl>
+						<dl><a href="http://stuyspec.com/advertise/">See our Advertising Page!</a></dl>
 				</dl>
 			</div>
+			<br><br>
+			<br><br>
+			Stuyvesant High School <br>
+			Attn: The Stuyvesant Spectator<br>
+			345 Chambers Street<br>
+			New York, NY 10282<br>
+			(212) 312-4800 ext. 2601<br>
+			
 		</section>
 	</div>
 	<?php get_footer(); ?>

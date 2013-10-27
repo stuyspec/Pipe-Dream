@@ -16,7 +16,7 @@
 			
 				<div id="meta">
 					<div id="social">
-						<fb:like href="https://www.facebook.com/BUPipeDream" send="false" layout="button_count" width="100" show_faces="false" action="recommend" font="arial"></fb:like>
+						<fb:like href="https://www.facebook.com/stuyspectator" send="false" layout="button_count" width="100" show_faces="false" action="recommend" font="arial"></fb:like>
 					</div>
 					<p class="byline" itemprop="author" itemscope itemtype="http://schema.org/Person">
 						<a href="<?php echo get_author_posts_url(get_the_author_meta('ID')); ?>" itemprop="url">More photos by <span itemprop="name"><?php the_author(); ?></span></a>
