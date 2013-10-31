@@ -16,7 +16,7 @@
 
 	<!-- Mobile viewport optimized: h5bp.com/viewport -->
 	<meta name="viewport" content="width=device-width">
-
+	
 	<!-- Begin LESS -->
 	<link rel="stylesheet/less" type="text/css" href="<? bloginfo('template_url'); ?>/less/style.less">
 	<script src="<? bloginfo('template_url'); ?>/js/vendor/less-1.1.5.min.js" type="text/javascript"></script>

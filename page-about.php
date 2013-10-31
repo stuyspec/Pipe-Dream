@@ -71,11 +71,11 @@
 							</ul>
 						</li>
 						<li>
-							<span class="board">Opinion</span>
+							<span class="board">Opinions</span>
 							<ul>
-								<li>Banjamin Attal, '14, <em>Opinion Editor</em></li>
+								<li>Benjamin Attal, '14, <em>Opinion Editor</em></li>
 								<li>Risham Dhillon, '14, <em>Opinion Editor</em></li>
-								<li>Sevryn Kozak, '14, <em>Opinion Editor</em></li>
+								<li>Severyn Kozak, '14, <em>Opinion Editor</em></li>
 
 							</ul>
 						</li>
