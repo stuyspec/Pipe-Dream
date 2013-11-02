@@ -347,10 +347,10 @@
 			<li><a href="<? bloginfo('wpurl'); ?>/about/" title="About The Spectator">About</a></li>
 			<li><a href="<? bloginfo('wpurl'); ?>/charter/" title="The Charter of The Spectator">Charter</a></li>
 			<li><a href="<? bloginfo('wpurl'); ?>/advertise/" title="Advertise in The Spectator">Advertise</a></li>
+			<li><a href="<? bloginfo('wpurl'); ?>/archives/" title="The Spectator archives">Archives</a></li>
 			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/donate/" title="Donate to The Spectator">Donate</a></li> -->
 			<li><a href="<? bloginfo('wpurl'); ?>/join/" title="Join The Spectator">Join</a></li>
 			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/staff/" title="The Spectator's Staff">Staff</a></li> -->
-			<li><a href="<? bloginfo('wpurl'); ?>/print/" title="The Spectator in print">Print</a></li>
 			<li><a href="<? bloginfo('wpurl'); ?>/contact/" title="Contact The Spectator">Contact</a></li>
 		</ul>
 	</nav>

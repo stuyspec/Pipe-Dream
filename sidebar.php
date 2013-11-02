@@ -3,7 +3,7 @@
 
 	<!--/* OpenX Javascript Tag v2.8.10 */-->
 	<script type='text/javascript'><!--//<![CDATA[
-		var m3_u = (location.protocol=='https:'?'https://www.bupipedream.com/openx/www/delivery/ajs.php':'http://www.bupipedream.com/openx/www/delivery/ajs.php');
+		var m3_u = (location.protocol=='https:'?'https://www.stuyspe.com/openx/www/delivery/ajs.php':'http://www.bupipedream.com/openx/www/delivery/ajs.php');
 		var m3_r = Math.floor(Math.random()*99999999999);
 		if (!document.MAX_used) document.MAX_used = ',';
 		document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -23,7 +23,7 @@
 			<img id="fb-profile-img" />
 			<div id="fb-profile-details" class="clearfix">
 				<p id="fb-name"></p>
-				<p id="fb-login-status">Logged into Pipe Dream and Facebook</p>
+				<p id="fb-login-status">Logged into The Spectator and Facebook</p>
 				<ul>
 					<li id="fb-show-activity"><a href="#">Activity</a></li>
 					<li id="fb-state"><a href="#">Sharing <span></span></a></li>
@@ -146,6 +146,7 @@
 	  * users.
 	  */-->
 
+	  <!--/* commented out by andrew
 	<script type='text/javascript'><!--//<![CDATA[
 	   var m3_u = (location.protocol=='https:'?'https://www.stuyspec.com/openx/www/delivery/ajs.php':'http://www.stuyspec.com/openx/www/delivery/ajs.php');
 	   var m3_r = Math.floor(Math.random()*99999999999);
@@ -201,5 +202,7 @@
 	//]]>--></script><noscript><a href='http://www.stuyspec.com/openx/www/delivery/ck.php?n=ac82518f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.stuyspec.com/openx/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ac82518f' border='0' alt='' /></a></noscript>
 
 	<!-- Innvocation code for 120x600 ad banner -->
+	
+
 
 </div>
