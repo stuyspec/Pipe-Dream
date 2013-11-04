@@ -27,6 +27,17 @@
 
 	<link rel="pingback" href="<? bloginfo('pingback_url'); ?>">
 	
+	<!--iOS Icons-->
+	<meta name="apple-mobile-web-app-title" content="Spectator">
+	<link rel="apple-touch-icon" sizes="40x40" href="/iOSIcons/AppIcon29x29.png" />
+	<link rel="apple-touch-icon" sizes="40x40" href="/iOSIcons/AppIcon29x29@2x.png" />
+	<link rel="apple-touch-icon" sizes="40x40" href="/iOSIcons/AppIcon40x40.png" />
+	<link rel="apple-touch-icon" sizes="40x40" href="/iOSIcons/AppIcon40x40@2x.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="/iOSIcons/AppIcon60x60.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="/iOSIcons/AppIcon60x60@2x.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="/iOSIcons/AppIcon76x76.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="/iOSIcons/AppIcon76x76@2x.png" />
+	
 	<!-- Open Graph Meta  -->
 	<? get_template_part("open-graph"); ?>
 
