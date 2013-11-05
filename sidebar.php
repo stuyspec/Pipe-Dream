@@ -3,7 +3,7 @@
 
 	<!--/* OpenX Javascript Tag v2.8.10 */-->
 	<script type='text/javascript'><!--//<![CDATA[
-		var m3_u = (location.protocol=='https:'?'https://www.stuyspe.com/openx/www/delivery/ajs.php':'http://www.bupipedream.com/openx/www/delivery/ajs.php');
+		var m3_u = (location.protocol=='https:'?'https://www.stuyspec.com/openx/www/delivery/ajs.php':'http://www.stuyspec.com/openx/www/delivery/ajs.php');
 		var m3_r = Math.floor(Math.random()*99999999999);
 		if (!document.MAX_used) document.MAX_used = ',';
 		document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -146,7 +146,7 @@
 	  * users.
 	  */-->
 
-	  <!--/* commented out by andrew
+	  <!--/* COMMENTED by Andrew - Old Pipe-Dream CPM Ads
 	<script type='text/javascript'><!--//<![CDATA[
 	   var m3_u = (location.protocol=='https:'?'https://www.stuyspec.com/openx/www/delivery/ajs.php':'http://www.stuyspec.com/openx/www/delivery/ajs.php');
 	   var m3_r = Math.floor(Math.random()*99999999999);
@@ -185,6 +185,7 @@
 	  * users.
 	  */-->
 
+<!--COMMENTED by Andrew - Old Pipe-Dream CPM Ads
 	<script type='text/javascript'><!--//<![CDATA[
 	   var m3_u = (location.protocol=='https:'?'https://www.stuyspec.com/openx/www/delivery/ajs.php':'http://www.stuyspec.com/openx/www/delivery/ajs.php');
 	   var m3_r = Math.floor(Math.random()*99999999999);
@@ -199,10 +200,48 @@
 	   if (document.context) document.write ("&context=" + escape(document.context));
 	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 	   document.write ("'><\/scr"+"ipt>");
-	//]]>--></script><noscript><a href='http://www.stuyspec.com/openx/www/delivery/ck.php?n=ac82518f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.stuyspec.com/openx/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ac82518f' border='0' alt='' /></a></noscript>
-
+	//]]>--></script><noscript><a href='http://www.stuyspec.com/openx/www/delivery/ck.php?n=ac82518f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.stuyspec.com/openx/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ac82518f' border='0' alt='' /></a></noscript> 
 	<!-- Innvocation code for 120x600 ad banner -->
 	
+	
+	
+	<!-- Chitika code for 300x250 ad block - goes to SpecBiz! -->
+
+	<section class="sidebar-block sidebar-advertisement">
+			<h1 class="section-heading">Advertisement</h1>	
+	<center>
+	<script type="text/javascript"> 
+	  ( function() {
+	    if (window.CHITIKA === undefined) {
+	      window.CHITIKA = { 'units' : [] };
+	    };
+	    var unit = {
+	      'publisher' : "specbusiness",
+	      'width' : 300,
+	      'height' : 250,
+	      'type' : "mpu",
+	      'sid' : "Chitika Default",
+	      'color_site_link' : "0000CC",
+	      'color_title' : "0000CC",
+	      'color_border' : "FFFFFF",
+	      'color_text' : "000000",
+	      'color_bg' : "FFFFFF"
+	    };
+	    var placement_id = window.CHITIKA.units.length;
+	    window.CHITIKA.units.push(unit);
+	    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+	    var s = document.createElement('script');
+	    s.type = 'text/javascript';
+	    s.src = 'http://scripts.chitika.net/getads.js';
+	    try {
+	      document.getElementsByTagName('head')[0].appendChild(s);
+	    } catch(e) {
+	      document.write(s.outerHTML);
+	    }
+   }());
+   </script>
+	</center>
+	</section>
 
 
 </div>

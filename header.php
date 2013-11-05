@@ -315,7 +315,13 @@
 			<div id="weather" class="weather" data-template-url="<? bloginfo('template_url'); ?>">
 				<!-- Weather loaded by JavaScript -->
 			</div>
+			<div id="bell-schedule" class="span6">
+				<!--Load Bell Schedule using python script-->
+				<img src="/wp-content/themes/Pipe-Dream/img/bell.png" width=18 height=18 style="margin-top: 2px;" alt="Bell Schedule" title="Bell Schedule">
+			</div>
 		</section>
+		
+		
 		<h1 id="logo" class="span12">
 			<a href="<? bloginfo( 'url' ); ?>/" title="<? bloginfo('name'); ?>">
 				<img src="<? bloginfo( 'template_url' ); ?>/img/bupipedream.png" alt="<? bloginfo( 'name' ); ?> - <? bloginfo( 'description' ); ?>" />
