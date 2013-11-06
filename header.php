@@ -343,7 +343,7 @@
 		<ul class="primary">
 			<?php
 				// categories in the navigation must be whitelisted
-				$categories = get_categories( array('include' => '1,2,3,4,5,6,31,32') );  //THESE ARE THE IDs THAT ARE WHITELISTED HOLY SHIT THIS TOOK FOREVER TO FIND THANK GOD!!!!
+				$categories = get_categories( array('include' => '1,2,3,4,5,6,31,32,20') );  //THESE ARE THE IDs THAT ARE WHITELISTED HOLY SHIT THIS TOOK FOREVER TO FIND THANK GOD!!!!
 			?>
 			
 			<? foreach($categories as $category): ?>
