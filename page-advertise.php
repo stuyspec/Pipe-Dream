@@ -29,17 +29,18 @@
 						<p>Local advertisers are classified as all those companies either headquartered within New York City or whose New York City local branch is placing an advertisement.</p>
 						<p>The best way to contact an advertising representative is to <a href="mailto:specbusiness@gmail.com">e-mail the business manager</a>. For information on rates and our publication schedule, please see the advertising forms below.</p>
 						<ul>
-							<li><a href="http://www.stuyspec.com/wp-content/uploads/2013/09/Display-Ad-Form-13-14.pdf">Display Ad Form (Not Availible)</a></li>
-							<li><a href="http://www.stuyspec.com/wp-content/uploads/2013/09/Classified-Ad-Form-13-14-1.pdf">Classified Ad Form (Not Availible)</a></li>
-							<li><a href="http://www.stuyspec.com/wp-content/uploads/2012/02/Web-Ad-Form-Fall-2013.pdf">Web Ad Form (Not Availible)</a></li>
+							<li><a href="http://stuyspec.com/wp-content/uploads/2013/11/SpecBiz-Letterhead-Print.pdf">National Ad Form</a></li>
+						<!--	<li><a href="http://www.stuyspec.com/wp-content/uploads/2013/09/Classified-Ad-Form-13-14-1.pdf">Classified Ad Form (Coming Soon)</a></li>
+						-->	<li><a href="http://stuyspec.com/wp-content/uploads/2013/11/SpecBizWeb-Letterhead.pdf">Web Ad Rates</a></li>
 						</ul>
 					</li>
 					<li id="national-advertising">
 						<h2 class="advertising-type">National Advertising</h2>
 						<p>Please direct all national advertising orders and questions to our business desk:</p>
+						<i><font size="-1">Most National Insertion Orders follow the same pricing outline as local advertising.</font> </i>
 						<dl class="address inline">
 							<dt>Email:</dt>
-								<dd>href="mailto:specbusiness@gmail.com">specbusiness@gmail.com </dd>a></dd>
+								<dd><a href="mailto:specbusiness@gmail.com">specbusiness@gmail.com </dd> </a></dd><br>
 							<dt>Fax:</dt>
 								<dd>212-587-3874, attn. The Spectator</dd>
 							<dt>Phone:</dt>
@@ -62,14 +63,14 @@
 			</div>
 
 			<div class="sidebar span7">
-				<figure id="media-kit" class="sidebar-block">
-					<a href="#">
-						<img src="<? bloginfo( 'template_url' ); ?>/img/pages/advertise/media-kit.jpg" alt="Pipe Dream 2012-2013 Media Kit">
-					</a>
-					<figcaption>
-						<a href="#">Download the Pipe Dream Media Kit</a>
-					</figcaption>
-				</figure>
+	<!--	//		<figure id="media-kit" class="sidebar-block">
+		//			<a href="#">
+		//				<img src="<? bloginfo( 'template_url' ); ?>/img/pages/advertise/media-kit.jpg" alt="Pipe Dream 2012-2013 Media Kit">
+		//			</a>
+		//			<figcaption>
+		//				<a href="#">Download the Pipe Dream Media Kit</a>
+		//			</figcaption>
+		//		</figure>  -->
 				<div id="contact-business" class="sidebar-block">
 					<h2 class="section-heading">Contact Business Directly</h2>
 					<dl class="address inline">

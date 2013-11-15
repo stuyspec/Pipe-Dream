@@ -312,12 +312,12 @@
 					echo date( 'M. j, Y' );
 				?>
 			</div>
-			<div id="weather" class="weather" data-template-url="<? bloginfo('template_url'); ?>">
+			<div id="weather" class="weather" data-template-url="<? bloginfo('template_url'); ?>"> 
 				<!-- Weather loaded by JavaScript -->
 			</div>
-			<div id="bell-schedule" class="span6">
-				<!--Load Bell Schedule using python script-->
-				<img src="/wp-content/themes/Pipe-Dream/img/bell.png" width=18 height=18 style="margin-top: 2px;" alt="Bell Schedule" title="Bell Schedule">
+			<div id="weather" class="weather"> <!--//Not actually weather... just didn't want to write another CSS class -Andrew-->
+				<!--Load Bell Schedule using python script...WHEN I GET CGI WORKING DAMNIT-->
+				<img src="/wp-content/themes/Pipe-Dream/img/bell.png" width=18 height=18 alt="Bell Schedule" title="Bell Schedule">
 			</div>
 		</section>
 		
@@ -339,7 +339,7 @@
 		</section>
 	</header>
 	
-	<nav class="row" role="navigation">
+	<nav class="row" role="navigation"> 
 		<ul class="primary">
 			<?php
 				// categories in the navigation must be whitelisted

@@ -1,0 +1,3 @@
+[submodule "functions/stuyDayGrabber"]
+	path = functions/stuyDayGrabber
+	url = git@github.com:afischer15/stuyDayGrabber.git
