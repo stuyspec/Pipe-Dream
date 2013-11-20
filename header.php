@@ -303,7 +303,7 @@
 
 <div id="container">
 		
-	<header class="row" role="banner">
+	<header class="row" role="banner" style="white-space: nowrap">
 		<section id="date-weather" class="span6">
 			<div class="date">
 				<?
@@ -317,7 +317,7 @@
 			</div>
 			<div id="weather" class="weather"> <!--//Not actually weather... just didn't want to write another CSS class -Andrew-->
 				<!--Load Bell Schedule using my dirty python script. Aww yis. CGI is working.-->
-				<img src="/wp-content/themes/Pipe-Dream/img/bell.png" width=18 height=18 alt="Bell Schedule" title="Bell Schedule">
+				<img src="/wp-content/themes/Pipe-Dream/img/bell.png" style="display: inline" width=18 height=18 alt="Bell Schedule" title="Bell Schedule">
 				<?php
 					$bellScheduleURL = "http://stuyspec.com/wp-content/themes/Pipe-Dream/functions/stuyDayGrabber/dayGrabber.py";
 					$bellSchedule = file_get_contents($bellScheduleURL);
