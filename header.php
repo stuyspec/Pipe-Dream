@@ -374,14 +374,13 @@
 			<li><a href="<? bloginfo('wpurl'); ?>/join/" title="Join The Spectator">Join</a></li>
 			<!-- <li class="secondary-hidden"><a href="<? bloginfo('wpurl'); ?>/staff/" title="The Spectator's Staff">Staff</a></li> -->
 			<li><a href="<? bloginfo('wpurl'); ?>/contact/" title="Contact The Spectator">Contact</a></li>
-			<li><a href="<? bloginfo('wpurl'); ?>/editing/" title="Have your college essays edited by the Spectator's editorial board">College Essay Editing</a></li>
 		</ul>
 	</nav>
 	<section id="mobile-search" class="row">
 		<form role="search" method="get" action="<? bloginfo( 'wpurl' ); ?>/">
 			<input type="search" name="s" autocomplete="on" placeholder="Search..." />
 			<input type="submit" value="" />
-		</form>u 
+		</form>
 	</section>
 	<div id="rave" class="row">
 		<!--Rave alerts are loaded by javascript from BU's official 'RAVE' alert RSS feed. -->
