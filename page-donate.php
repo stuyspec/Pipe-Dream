@@ -15,6 +15,9 @@
 		<section class="post">
 			<?php the_content(); ?>
 		</section>
+	
+	Testing, testing, 1,2,3.
+
 	</div>
 	<?php get_footer(); ?>
 
